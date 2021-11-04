@@ -44,7 +44,7 @@ reg = args.region
 if not var_list:
     var_list=["1"]
 
-path = "/Users/helenpersson/Documents/Master/created_figures/"
+path = "/Users/Documents/Master/created_figures/"
 
 
 

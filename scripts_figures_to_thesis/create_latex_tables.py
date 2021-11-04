@@ -37,8 +37,8 @@ file_list = [x.replace(".txt", "") for x in args.file_name]
 folder = args.folder
 iso = args.iso
 
-inpath = "/Users/helenpersson/Documents/Master/results/"
-outpath  = "/Users/helenpersson/Documents/Master/created_tables/"
+inpath = "/Users/Documents/Master/results/"
+outpath  = "/Users/Documents/Master/created_tables/"
 
 
 for f in file_list:

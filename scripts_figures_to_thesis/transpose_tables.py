@@ -21,8 +21,8 @@ fold = args.folder
 file_list = [x.replace(".tex", "") for x in args.file]
 iso = args.iso
 
-inpath = "/Users/helenpersson/Documents/Master/created_tables/"
-outpath = "/Users/helenpersson/Documents/Master/created_tables/longtables/"
+inpath = "/Users/Documents/Master/created_tables/"
+outpath = "/Users/Documents/Master/created_tables/longtables/"
 
 
 for f in file_list:
